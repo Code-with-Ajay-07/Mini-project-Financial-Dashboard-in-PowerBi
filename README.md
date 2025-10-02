@@ -19,7 +19,7 @@ This repository contains a Power BI dashboard analyzing the **financial health o
 
 ## 📑 Data Source
 The dataset used for building this dashboard was obtained from **Kaggle**:  
-👉 [Kaggle Financial Dataset](https://www.kaggle.com/) *(insert the exact Kaggle dataset link you used)*  
+ 
 
 ## 🛠️ Tools & Technologies
 - **Power BI** → For data visualization and dashboard creation  
