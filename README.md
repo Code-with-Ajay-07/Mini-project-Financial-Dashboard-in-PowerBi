@@ -1,2 +1,27 @@
-# Mini-project-Financial-Dashboard-in-PowerBi
-"A Power BI dashboard analyzing the financial health of a company, including revenue, gross profit, operating cost, and net profit insights."  "Financial health analysis dashboard built in Power BI to track revenue, profit, costs, and key business KPIs."  "Power BI project showcasing company financial performance with monthly trends and insights."
+# 📊 Financial Health Dashboard
+
+This repository contains a Power BI dashboard analyzing the **financial health of a company**.
+
+## 🚀 Dashboard Overview
+- **Total Revenue**: 54.43M  
+- **Total Gross Profit**: 32.66M  
+- **Total Operating Cost**: 6.05M  
+- **Total Net Profit**: 26.61M  
+
+### 🔍 Key Insights
+- March recorded the **highest revenue** (~5M).  
+- February had the **lowest revenue** (~4.5M).  
+- Operating expenses are gradually decreasing month by month.  
+- The company maintains a healthy **gross profit margin (~60%)**.  
+
+## 🖼️ Dashboard Preview
+<img width="1420" height="743" alt="Financial Dashboard" src="https://github.com/user-attachments/assets/2be11767-5d2c-4bda-8324-7a23e8f8cf01" />
+
+
+## 📂 Files Included
+- `financial_dashboard.png` → Dashboard preview (image)  
+- `financial_dashboard.pbix` → Power BI file (if shared)  
+- `data.xlsx` → Dataset used (if shared)  
+
+---
+✨ Built using **Power BI** for data visualization.
